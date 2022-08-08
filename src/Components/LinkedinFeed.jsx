@@ -2,18 +2,16 @@ import { Grid } from "@mui/material";
 import React from "react";
 import LeftSidebar from "./LeftSidebar";
 import "./LinkedinFeed.css";
-import './Responsive.css';
-import { makeStyles } from '@mui/styles';
+import "./Responsive.css";
+import { makeStyles } from "@mui/styles";
 import NewsFeed from "./NewsFeed";
 import RightSidebar from "./RightSidebar";
-// import Item from '@mui/material/Item';
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   mainContainer: {
     maxWidth: "1200px",
-    margin:'0 auto'
-  }
-
+    margin: "0 auto",
+  },
 }));
 
 const LinkedinFeed = () => {
@@ -22,13 +20,13 @@ const LinkedinFeed = () => {
     <div className="linkedin-feed">
       <Grid container className={classes.mainContainer} spacing={3}>
         <Grid item xs>
-          <LeftSidebar/>
+          <LeftSidebar />
         </Grid>
         <Grid item xs={12} md={6}>
-          <NewsFeed/>
+          <NewsFeed />
         </Grid>
         <Grid item xs>
-          <RightSidebar/>
+          <RightSidebar />
         </Grid>
       </Grid>
     </div>

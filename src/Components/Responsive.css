@@ -1,10 +1,18 @@
-@media only screen and (max-width:479px){
-    .left-sidebar{display: none;};
-    .post-item {
-        margin-right: 10px !important;
-        margin-left: 10px !important;
-      }
-    .post-item h6 {font-size: 12px !important}
-    .post-item-icon {font-size: 16px !important}
-    .css-1o35jmn-MuiChip-root{font-size: 0.6rem !important;}
+@media only screen and (max-width: 479px) {
+  .left-sidebar {
+    display: none;
+  }
+  .post-item {
+    margin-right: 10px !important;
+    margin-left: 10px !important;
+  }
+  .post-item h6 {
+    font-size: 12px !important;
+  }
+  .post-item-icon {
+    font-size: 16px !important;
+  }
+  .css-1o35jmn-MuiChip-root {
+    font-size: 0.6rem !important;
+  }
 }

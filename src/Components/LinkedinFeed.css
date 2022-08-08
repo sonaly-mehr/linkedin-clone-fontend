@@ -2,11 +2,7 @@
   background-color: #f3f2ef;
   overflow: hidden;
 }
-.left-sidebar {
-}
-.css-zow5z4-MuiGrid-root > .MuiGrid-item {
-  padding-left: 0px !important;
-}
+.css-zow5z4-MuiGrid-root > .MuiGrid-item {padding-left: 0px !important;}
 .left-sidebar h6 {
   font-size: 14px;
   margin-left: 18px;
@@ -35,9 +31,7 @@
   top: 112%;
   left: 0;
 }
-.post {
-  display: flex;
-}
+.post {display: flex;}
 .post img {
   width: 50px;
   height: 50px;
@@ -52,9 +46,7 @@
   padding-right: 15px;
   font-size: 14px;
 }
-.post-item-container {
-  display: flex;
-}
+.post-item-container {display: flex;}
 .post-item {
   display: flex;
   margin-left: 10px;
@@ -70,11 +62,7 @@
   margin-top: 20px;
   margin-right: 10px;
 }
-.users-post-section {
-  margin-top: 33px;
-}
-.right-sidebar-section {
-}
+.users-post-section {margin-top: 33px;}
 .right-sidebar-card {
   background-color: #fff;
   padding: 13px 30px;
@@ -101,8 +89,6 @@
   margin: 0;
   padding: 0;
   margin-top: 7px;
-}
-.footer {
 }
 .footer span {
   font-size: 12px;
@@ -141,167 +127,48 @@
   top: 14px;
   left: 55px;
 }
-div.css-1bzcqru {
-  margin-left: 6px;
-}
-div.MuiBox-root.css-auk05l {
-  height: 65px;
-}
-button.MuiButtonBase-root.MuiTab-root.MuiTab-labelIcon.MuiTab-textColorPrimary.Mui-selected.css-io19y-MuiButtonBase-root-MuiTab-root {
+div.css-1bzcqru {margin-left: 6px;}
+div.MuiBox-root.css-auk05l {height: 65px;}
+button.MuiButtonBase-root.MuiTab-root.MuiTab-labelIcon.MuiTab-textColorPrimary.Mui-selected.css-io19y-MuiButtonBase-root-MuiTab-root {color: #000;}
+div.MuiTabs-flexContainer.css-heg063-MuiTabs-flexContainer button.MuiButtonBase-root.MuiTab-root.MuiTab-labelIcon.MuiTab-textColorPrimary.Mui-selected.css-1hitna3-MuiButtonBase-root-MuiTab-root {
   color: #000;
 }
-html
-  body
-  div#root
-  div
-  div.navabr
-  div.container
-  div.MuiBox-root.css-i9gxme
-  header.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation4.MuiAppBar-root.MuiAppBar-colorPrimary.MuiAppBar-positionStatic.css-1nr0uyl-MuiPaper-root-MuiAppBar-root
-  div.MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.css-10ts2re-MuiToolbar-root
-  div.MuiBox-root.css-auk05l
-  div.MuiTabs-root.css-1ujnqem-MuiTabs-root
-  div.MuiTabs-scroller.MuiTabs-fixed.css-jpln7h-MuiTabs-scroller
-  div.MuiTabs-flexContainer.css-heg063-MuiTabs-flexContainer
-  button.MuiButtonBase-root.MuiTab-root.MuiTab-labelIcon.MuiTab-textColorPrimary.Mui-selected.css-1hitna3-MuiButtonBase-root-MuiTab-root {
-  color: #000;
-}
-span.MuiTabs-indicator.css-1aquho2-MuiTabs-indicator {
-  background-color: #000;
-}
+span.MuiTabs-indicator.css-1aquho2-MuiTabs-indicator {background-color: #000;}
 .icon-style {
   font-size: 25px;
   color: rgba(0, 0, 0, 0.6);;
 }
-div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.makeStyles-mainContainer-1.css-zow5z4-MuiGrid-root {
-  margin: 0 auto;
-}
-html
-  body
-  div#root
-  div
-  div
-  div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.makeStyles-mainContainer-1.css-zow5z4-MuiGrid-root
-  div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-true.css-1vd824g-MuiGrid-root
-  div.left-sidebar
-  div.MuiBox-root.css-144ebsl
-  nav
-  ul.MuiList-root.MuiList-padding.css-h4y409-MuiList-root
-  li.MuiListItem-root.MuiListItem-gutters.css-1nxmd3h-MuiListItem-root
-  div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root
-  div.MuiListItemText-root.css-tlelie-MuiListItemText-root
-  span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root {
+div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.makeStyles-mainContainer-1.css-zow5z4-MuiGrid-root {margin: 0 auto;}
+div.MuiListItemText-root.css-tlelie-MuiListItemText-root span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root {
   font-size: 0.8rem !important;
 }
-/* div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root div.MuiListItemText-root.css-1kjnase-MuiListItemText-root span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root{
-    font-size: 0.8rem !important;
-} */
-html
-  body
-  div#root
-  div
-  div
-  div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.makeStyles-mainContainer-1.css-zow5z4-MuiGrid-root
-  div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-true.css-1vd824g-MuiGrid-root
-  div.left-sidebar
-  div.MuiBox-root.css-144ebsl
-  nav
-  ul.MuiList-root.MuiList-padding.css-h4y409-MuiList-root
-  li.MuiListItem-root.MuiListItem-gutters.css-1nxmd3h-MuiListItem-root
-  div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root
-  div.MuiListItemIcon-root.css-cveggr-MuiListItemIcon-root {
+div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root div.MuiListItemIcon-root.css-cveggr-MuiListItemIcon-root {
   min-width: 0;
   margin-right: 15px;
 }
-html
-  body
-  div#root
-  div
-  div.linkedin-feed
-  div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.makeStyles-mainContainer-1.css-zow5z4-MuiGrid-root
-  div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-true.css-1vd824g-MuiGrid-root
-  div.left-sidebar
-  div.MuiBox-root.css-188yqp7 {
+div.left-sidebar div.MuiBox-root.css-188yqp7 {
   margin-top: -25px;
   border-radius: 5px;
 }
-html
-  body
-  div#root
-  div
-  div.linkedin-feed
-  div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.makeStyles-mainContainer-1.css-zow5z4-MuiGrid-root
-  div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-true.css-1vd824g-MuiGrid-root
-  div.left-sidebar
-  div.MuiBox-root.css-144ebsl {
+div.left-sidebar div.MuiBox-root.css-144ebsl {
   border-radius: 5px;
   border: 1px solid #e6e6e6;
 }
-html
-  body
-  div#root
-  div
-  div.linkedin-feed
-  div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.makeStyles-mainContainer-1.css-zow5z4-MuiGrid-root
-  div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-6.css-1osj8n2-MuiGrid-root
-  div.newsfeed-section
-  div.users-post-section
-  div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-17lvz0h-MuiPaper-root-MuiCard-root
-  div.MuiCardActions-root.css-1rwjz6-MuiCardActions-root
-  button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.css-78trlr-MuiButtonBase-root-MuiIconButton-root
-  div.MuiChip-root.MuiChip-filled.MuiChip-sizeMedium.MuiChip-colorDefault.MuiChip-filledDefault.css-1o35jmn-MuiChip-root
-  span.MuiChip-label.MuiChip-labelMedium.css-6od3lo-MuiChip-label {
+div.MuiChip-root.MuiChip-filled.MuiChip-sizeMedium.MuiChip-colorDefault.MuiChip-filledDefault.css-1o35jmn-MuiChip-root span.MuiChip-label.MuiChip-labelMedium.css-6od3lo-MuiChip-label {
   color: #555;
   font-size: 14px;
 }
-html
-  body
-  div#root
-  div
-  div.linkedin-feed
-  div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.makeStyles-mainContainer-1.css-zow5z4-MuiGrid-root
-  div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-6.css-1osj8n2-MuiGrid-root
-  div.newsfeed-section
-  div.users-post-section
-  div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-17lvz0h-MuiPaper-root-MuiCard-root
-  div.MuiCardActions-root.css-1rwjz6-MuiCardActions-root
-  button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.css-78trlr-MuiButtonBase-root-MuiIconButton-root {
+div.MuiCardActions-root.css-1rwjz6-MuiCardActions-root button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.css-78trlr-MuiButtonBase-root-MuiIconButton-root {
   margin-right: 12px;
   margin-left: 13px;
 }
-html
-  body
-  div#root
-  div
-  div.linkedin-feed
-  div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.makeStyles-mainContainer-1.css-zow5z4-MuiGrid-root
-  div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-6.css-1osj8n2-MuiGrid-root
-  div.newsfeed-section
-  div.users-post-section
-  div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-17lvz0h-MuiPaper-root-MuiCard-root
-  div.MuiCardActions-root.css-1rwjz6-MuiCardActions-root {
+div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-17lvz0h-MuiPaper-root-MuiCard-root div.MuiCardActions-root.css-1rwjz6-MuiCardActions-root {
   width: 90%;
   margin-top: 0px;
   margin-top: 27px;
 }
-html
-  body
-  div#root
-  div
-  div.linkedin-feed
-  div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.makeStyles-mainContainer-1.css-zow5z4-MuiGrid-root
-  div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-6.css-1osj8n2-MuiGrid-root
-  div.newsfeed-section
-  div.users-post-section
-  div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.css-17lvz0h-MuiPaper-root-MuiCard-root
-  div.MuiCardHeader-root.css-185gdzj-MuiCardHeader-root
-  div.MuiCardHeader-content.css-1qbkelo-MuiCardHeader-content
-  span.MuiTypography-root.MuiTypography-body2.MuiCardHeader-subheader.css-83ijpv-MuiTypography-root {
+div.MuiCardHeader-content.css-1qbkelo-MuiCardHeader-content span.MuiTypography-root.MuiTypography-body2.MuiCardHeader-subheader.css-83ijpv-MuiTypography-root {
   font-size: 12px;
 }
-.css-12qu4fk-MuiButtonBase-root-MuiTab-root.Mui-selected{
-    color:#000 !important
-}
-.css-12qu4fk-MuiButtonBase-root-MuiTab-root{
-    padding:12px 10px !important;
-}
+.css-12qu4fk-MuiButtonBase-root-MuiTab-root.Mui-selected{color:#000 !important}
+.css-12qu4fk-MuiButtonBase-root-MuiTab-root{padding:12px 10px !important;}
